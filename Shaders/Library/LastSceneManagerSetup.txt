@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/ToonShader/ToonShaderScene.unity
+- path: Assets/NormalShader/NormalColorShader.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
