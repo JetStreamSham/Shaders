@@ -1,4 +1,4 @@
-﻿Shader "Blends/ColorBlend"
+﻿Shader "Blends/TextureBlendByTexture"
 {
     Properties
     {
